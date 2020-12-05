@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701813744124",
+    "firebase_url": "https://nitya-tax-associates.firebaseio.com",
+    "project_id": "nitya-tax-associates",
+    "storage_bucket": "nitya-tax-associates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701813744124:android:811638415c9317994f9279",
+        "android_client_info": {
+          "package_name": "com.entrepreter.nityaassociation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701813744124-gvuc2oao6vl3ibvfge1g5mhgpn68t3sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entrepreter.nityaassociation",
+            "certificate_hash": "5d97d49d1784f69e597fb9741a720bae12b7c275"
+          }
+        },
+        {
+          "client_id": "701813744124-vtgdqj1e4c2k7f8ub30elll57gbdqb39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9C79SYScEqpMXqdkUwR7EkAy1kjSEzb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701813744124-vtgdqj1e4c2k7f8ub30elll57gbdqb39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
